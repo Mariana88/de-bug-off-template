@@ -22,5 +22,3 @@ function binaryStrAddition (binaryStr1, binaryStr2){
         }
     return addedBinary;
 }
-
-// http://2ality.com/2011/02/javascript-variable-scoping-and-its.html
